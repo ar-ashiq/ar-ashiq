@@ -23,8 +23,6 @@
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashiqar2002@gmail.com)
 <!-- [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/brantlauro) -->
 </div>
-
-<hr>
 <p >
 <!--   <img height= "150" src="https://github-readme-stats.vercel.app/api?username=AshiqAR&theme=react&show_icons=true&include_all_commits=true&hide=issues" /> -->
 <!--   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshiqAR&theme=react&layout=compact" />  -->
