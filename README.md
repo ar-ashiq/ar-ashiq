@@ -1,6 +1,6 @@
 <p>
   <samp>
-    Hello, I'm <strong>Ashiq AR</strong> 👋
+    Hello, I'm <strong>Ashiq</strong> 👋
     <br/><br/>
     Curious about building things and learning how technology works.
   </samp>
