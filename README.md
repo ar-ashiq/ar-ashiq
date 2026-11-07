@@ -7,10 +7,10 @@
 </p>
 
 <samp>
-<h3>Languages and Tools</h3>
+<h3>Technologies & Tools</h3>
 <p>
   <a href="https://skillicons.dev">
-    <img width=70% src="https://skillicons.dev/icons?i=react,html,css,bootstrap,py,c,java,cpp,js,git,github,postgres,linux,vscode" />
+    <img width=60% src="https://skillicons.dev/icons?i=docker,prometheus,grafana,kafka,kubernetes,git,postgres,linux,spring,idea,arduino,mongodb,nodejs,postman" />
   </a>
 </p>
 
